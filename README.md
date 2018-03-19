@@ -13,9 +13,15 @@ Hi! My name is Di. My desire is to unearth data overlooked and misrepresented in
 
 Algorithms are increasingly being used by law enforcement in the United States for surveillance and censorship. These algorithms contribute to targeting and shutting down political opposition at rally events, civil liberty advocacy, or the general public. Algorithms have been the underpinning of technology like assigning risk scores to travelers at border crossings in the U.S. and evaluate good citizenship in China. 
 
+We have the right to evaluate and audit these “black boxes” for biases. Algorithms act on human biases by replicating these biases, thereby reinforcing and even exacerbating existing inequalities. Data literacy is a path to better understanding the human decisions behind the curtain of the great and powerful AI.
+
 **The solution**
 
-We have the right to evaluate and audit these “black boxes” for biases. Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. This data is often collected or aggregated without public consent or awareness. Data marked with demographic and socio-economic disparities will only perpetuate these disparites when fed into algoirthms. I believe data literacy and community-centered technology will mitigate biases found in AI and the humans in charge of designing these algoirithms.
+Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. We want to transform this data into human stories. This project aims to:
+
+1) increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data) 
+2) develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy. 
+
 
 **What do we need?**
 
